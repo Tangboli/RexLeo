@@ -44,5 +44,5 @@ echo "TVqQAAMAAAAEAAAA//8AAIsAAAAAA....">> demo.jpg && certutil.exe -decode demo
 
 ![04](/image/04.png)
 
-
+大佬，那个微信加不了了，显示账号状态异常
 
